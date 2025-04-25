@@ -1,13 +1,13 @@
-package com.sena.email;
+package com.example.emailSender;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EmailApplication {
+public class EmailSenderApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(EmailApplication.class, args);
+		SpringApplication.run(EmailSenderApplication.class, args);
 	}
 
 }

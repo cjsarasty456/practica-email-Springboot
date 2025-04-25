@@ -1,10 +1,10 @@
-package com.sena.email;
+package com.example.emailSender;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EmailApplicationTests {
+class EmailSenderApplicationTests {
 
 	@Test
 	void contextLoads() {
